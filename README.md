@@ -236,57 +236,6 @@
 
 # Depending on the actual configuration, Firebase services can support features such as authentication, cloud data storage, and application data management. Only the services actually enabled in this project should be considered implemented.
 
-# 
-
-# \## Application Screenshots
-
-# 
-
-# The following sections are intended to demonstrate the actual application interface. Add screenshots captured from the running app to the `screenshots` directory in the project root.
-
-# 
-
-# \### Home Screen
-
-# 
-
-# The home screen introduces the application and provides access to its main features.
-
-# 
-
-# !\[Home Screen](screenshots/hometab.jpeg)
-
-# \### Charging Station Screen
-
-# 
-
-# This screen should demonstrate the charging station discovery functionality available in the application.
-
-# 
-
-# !\[Charging Stations](screenshots/charging.jpeg)
-
-
-
-# \### Nearby Places Screen
-
-# 
-
-# This screen should demonstrate how users can explore nearby places during charging time.
-
-# 
-
-# !\[Nearby Places](screenshots/nearbyplaces.jpeg)
-
-# \### Energy Analytics Screen
-
-# 
-
-# This screen should demonstrate the energy-related information or analytics implemented in the application.
-
-# 
-
-# !\[Energy Analytics](screenshots/energyanalytics.jpeg)
 
 # \## How the Application Works
 
