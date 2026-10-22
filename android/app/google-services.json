@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595330199540",
+    "project_id": "ai-ev-charging-assistant",
+    "storage_bucket": "ai-ev-charging-assistant.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595330199540:android:34b3be5b069d6450dfd3a1",
+        "android_client_info": {
+          "package_name": "com.example.ai_ev_charging_asistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP_nAcy9k-zLuzZan0BzeaneLl7pYnXeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
