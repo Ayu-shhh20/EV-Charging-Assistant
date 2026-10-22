@@ -256,7 +256,7 @@
 
 # !\[Home Screen](screenshots/hometab.png)
 
-# 
+
 
 # \### Charging Station Screen
 
@@ -268,7 +268,7 @@
 
 # !\[Charging Stations](screenshots/charging.png)
 
-# 
+
 
 # \### Nearby Places Screen
 
@@ -280,7 +280,7 @@
 
 # !\[Nearby Places](screenshots/nearbyplaces.png)
 
-# 
+
 
 # \### Energy Analytics Screen
 
@@ -292,7 +292,7 @@
 
 # !\[Energy Analytics](screenshots/energyanalytics.png)
 
-# 
+
 
 # \## How the Application Works
 
