@@ -254,7 +254,7 @@
 
 # 
 
-# !\[Home Screen](screenshots/hometab.png)
+# !\[Home Screen](screenshots/hometab.jpeg)
 
 
 
@@ -266,7 +266,7 @@
 
 # 
 
-# !\[Charging Stations](screenshots/charging.png)
+# !\[Charging Stations](screenshots/charging.jpeg)
 
 
 
@@ -278,7 +278,7 @@
 
 # 
 
-# !\[Nearby Places](screenshots/nearbyplaces.png)
+# !\[Nearby Places](screenshots/nearbyplaces.jpeg)
 
 
 
@@ -290,7 +290,7 @@
 
 # 
 
-# !\[Energy Analytics](screenshots/energyanalytics.png)
+# !\[Energy Analytics](screenshots/energyanalytics.jpeg)
 
 
 
